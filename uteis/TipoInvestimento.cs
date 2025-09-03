@@ -24,10 +24,10 @@ public static class TipoInvestimento
     {
         return tipo switch
         {
-            1 => 0.135,
+            1 => 0.15,
             2 => 0.07,
-            3 => 0.12,
-            4 => 0.049,
+            3 => 0.14,
+            4 => 0.06,
             _ => 0
         };
     }
