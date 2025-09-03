@@ -20,6 +20,6 @@ public static class Prazo
 
         Console.WriteLine("Prazo inválido. Use 'X anos' ou 'Y meses'.");
         Environment.Exit(1);
-        return 0; // só para compilação
+        return 0; 
     }
 }
