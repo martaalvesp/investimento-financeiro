@@ -4,6 +4,8 @@ class Program
 {
     static void Main()
     {
+       
+       
         Console.WriteLine("=== Simulador de Investimentos ===");
 
         Console.Write("Informe o valor inicial a ser depositado (R$): ");
@@ -14,14 +16,19 @@ class Program
 
         int meses = Prazo.LerPrazo();
 
+
+
         int tipo = TipoInvestimento.LerTipo();
 
         double taxaAnual = TipoInvestimento.ObterTaxa(tipo);
 
         double taxaMensal = Calculadora.CalcularTaxaMensal(taxaAnual);
 
+
+
+
         double saldoFinal = Calculadora.CalcularSaldo(valorInicial, depositoMensal, meses, taxaMensal, out int mesSuperacao);
 
-        Resultado.MostrarResultado(saldoFinal, meses, depositoMensal, mesSuperacao);
-    }
+        Resultado.MostrarResultado(saldoFinal, meses, mesSuperacao);
+    }   
 }

@@ -2,7 +2,7 @@ using System;
 
 public static class Resultado
 {
-    public static void MostrarResultado(double saldoFinal, int meses, double depositoMensal, int mesSuperacao)
+    public static void MostrarResultado(double saldoFinal, int meses, int mesSuperacao)
     {
         Console.WriteLine("\n=== Resultado Final ===");
         Console.WriteLine($"Saldo final após {meses} meses: R$ {saldoFinal:F2}");
