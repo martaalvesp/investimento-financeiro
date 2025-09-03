@@ -1,0 +1,15 @@
+C:\Users\nicho\Downloads\InvestPOO\bin\Debug\net9.0\Invest.exe
+C:\Users\nicho\Downloads\InvestPOO\bin\Debug\net9.0\Invest.deps.json
+C:\Users\nicho\Downloads\InvestPOO\bin\Debug\net9.0\Invest.runtimeconfig.json
+C:\Users\nicho\Downloads\InvestPOO\bin\Debug\net9.0\Invest.dll
+C:\Users\nicho\Downloads\InvestPOO\bin\Debug\net9.0\Invest.pdb
+C:\Users\nicho\Downloads\InvestPOO\obj\Debug\net9.0\Invest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Downloads\InvestPOO\obj\Debug\net9.0\Invest.AssemblyInfoInputs.cache
+C:\Users\nicho\Downloads\InvestPOO\obj\Debug\net9.0\Invest.AssemblyInfo.cs
+C:\Users\nicho\Downloads\InvestPOO\obj\Debug\net9.0\Invest.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Downloads\InvestPOO\obj\Debug\net9.0\Invest.sourcelink.json
+C:\Users\nicho\Downloads\InvestPOO\obj\Debug\net9.0\Invest.dll
+C:\Users\nicho\Downloads\InvestPOO\obj\Debug\net9.0\refint\Invest.dll
+C:\Users\nicho\Downloads\InvestPOO\obj\Debug\net9.0\Invest.pdb
+C:\Users\nicho\Downloads\InvestPOO\obj\Debug\net9.0\Invest.genruntimeconfig.cache
+C:\Users\nicho\Downloads\InvestPOO\obj\Debug\net9.0\ref\Invest.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicho\\Downloads\\MeuProjeto\\MeuProjeto.csproj",
-      "projectName": "MeuProjeto",
-      "projectPath": "C:\\Users\\nicho\\Downloads\\MeuProjeto\\MeuProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\nicho\\Downloads\\InvestPOO\\Invest.csproj",
+      "projectName": "Invest",
+      "projectPath": "C:\\Users\\nicho\\Downloads\\InvestPOO\\Invest.csproj",
       "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicho\\Downloads\\MeuProjeto\\obj\\",
+      "outputPath": "C:\\Users\\nicho\\Downloads\\InvestPOO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
